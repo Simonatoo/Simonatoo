@@ -6,7 +6,7 @@ Eu sou Guilherme Simonato, seja bem-vindo ao meu repositório
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Simonatooo)](https://twitter.com/fagnerpsantos)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/Simonatoo)](https://www.youtube.com/user/TreinaWeb)
 
-### About me
+### Sobre
 Eu sou designer data analytics rumo ao sucesso!
 
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - Onde eu escrevo algumas coisas interessantes.
